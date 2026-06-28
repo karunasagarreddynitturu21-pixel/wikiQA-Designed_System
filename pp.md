@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)]()
 [![Streamlit](https://img.shields.io/badge/streamlit-1.0%2B-red)]()
 
-A hybrid Question Answering system combining **TF-IDF with Logistic Regression** and **BERT-based deep learning** approaches to retrieve and rank relevant answers from a dataset of Q&A pairs..
+A hybrid Question Answering system combining **TF-IDF with Logistic Regression** and **BERT-based deep learning** approaches to retrieve and rank relevant answers from a dataset of Q&A pairs.
 
 ##  Features
 
